@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki301_kutsenko_lab5","l":"Calculate"},{"p":"ki301_kutsenko_lab5","l":"Driver"},{"p":"ki301_kutsenko_lab5","l":"FileHandler"}];updateSearchResults();
